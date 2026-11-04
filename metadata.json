@@ -1,0 +1,6 @@
+{
+  "name": "KisanConnect — Smart Agriculture Network",
+  "description": "A digital agricultural ecosystem connecting farmers, buyers, agricultural experts, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
